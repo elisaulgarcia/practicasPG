@@ -1,0 +1,2 @@
+let edad
+let peso
